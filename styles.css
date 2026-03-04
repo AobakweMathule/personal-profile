@@ -41,7 +41,7 @@ main img {
 }
 
 footer {
-    background-color: #333;
+    background-color: #0025e0;
     color: white;
     text-align: center;
     padding: 10px;
@@ -77,7 +77,7 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    border: 5px solid #000000;
+    border: 5px solid #1200b06e;
     border-radius: 10px;
 }
 
