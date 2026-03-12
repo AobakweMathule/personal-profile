@@ -1,14 +1,14 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     color: #dbdbdb;
-    background-image: url('images/background2.jpeg');
+    background-image: url('images/background4.jpeg');
     background-size: cover;
     background-attachment: fixed;
     color: #dbdbdb;
   
     } 
 header{
-    background-color: rgb(20, 48, 103);
+    background-color: rgb(2, 16, 42);
     text-align: center;
         padding: 20px;
 }
