@@ -1,89 +1,58 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    color: #fff3f3;
+    font-family: 'Times New Roman', Times, serif;
+    color: #dbdbdb;
     background-image: url('images/Background.jpeg');
-    background-size: cover;     
-    margin: 0;
-    padding: 0;
-    list-style: 1.6;
-}
-
+    background-size: cover;
+    background-attachment: fixed;
+  
+    } 
 header{
-    background-color: #067aff;
-    color: antiquewhite;
-    padding: 20px;
+    background-color: rgb(20, 48, 103);
     text-align: center;
         padding: 20px;
 }
-
-header h1 {
+header h1{
+    color: #dbdbdb;
+    font-size: 36px;
     margin: 0;
 }
-
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 10px;
+nav{
+    background-color: rgb(17, 88, 232);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
 }
-nav a:hover {
+
+nav a{
+    color: #dbdbdb;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+nav a:hover{
+    color: #dbdbdb;
     text-decoration: underline;
 }
-
-main {
+main{
     padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
 }
-
-main img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px 0;
+main h2{
+    color: #dbdbdb;
+    font-size: 28px;
+    margin-bottom: 10px;
 }
-
-footer {
-    background-color: #333;
-    color: white;
+main p{
+    color: #dbdbdb;
+    font-size: 18px;
+    line-height: 1.6;
+}
+footer{
+    background-color: rgb(5, 6, 9);
     text-align: center;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    color: #dbdbdb;
+    font-size: 14px;
 }
-
-
-p {
-    font-size: 1.1em;
-}
-
-a {
-    color: #076eea;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-p {
-    font-size: 1.1em;
-}
-
-a {
-    color: #0072fd;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-img {
-    border: 5px solid #000000;
-    border-radius: 10px;
-}
-
-main a[href^="mailto:"] {
-    color: #1658f2;
-    font-weight: bold;
+footer p{
+    margin: 0;
 }
