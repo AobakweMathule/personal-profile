@@ -51,12 +51,15 @@ main p{
     line-height: 1.6;
 }
 footer{
-    background-color: rgb(5, 6, 9);
+   background-color: #333333fb;
+    color: white;
     text-align: center;
     padding: 10px;
-    color: #dbdbdb;
-    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 footer p{
-    margin: 0;
+    font-size: 1.1em;
+     margin: 0;
 }
