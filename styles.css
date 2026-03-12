@@ -57,7 +57,7 @@ p {
 }
 
 a {
-    color: #56007e;
+    color: #076eea;
     text-decoration: none;
 }
 
@@ -70,7 +70,7 @@ p {
 }
 
 a {
-    color: #5f00a3;
+    color: #0072fd;
     text-decoration: none;
 }
 
@@ -83,6 +83,6 @@ img {
 }
 
 main a[href^="mailto:"] {
-    color: #6900e9;
+    color: #1658f2;
     font-weight: bold;
 }
