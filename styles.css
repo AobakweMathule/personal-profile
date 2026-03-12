@@ -1,9 +1,10 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     color: #dbdbdb;
-    background-image: url('images/Background.jpeg');
+    background-image: url('images/background2.png');
     background-size: cover;
     background-attachment: fixed;
+    color: #dbdbdb;
   
     } 
 header{
@@ -12,7 +13,6 @@ header{
         padding: 20px;
 }
 header h1{
-    color: #dbdbdb;
     font-size: 36px;
     margin: 0;
 }
